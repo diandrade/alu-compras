@@ -4,23 +4,13 @@ Realização de projetos voltados para o ensino da lógica de programação atra
 
 Utilização de elementos de JavaSript em aplicação com CSS para manipulação de botões em páginas estáticas na web.
 
-- Analisar o código de uma página HTML para entender sua estrutura e planejar o código de sua funcionalidade;
+- Utilizar a função split() no JavaScript, para separar trechos de uma String por um determinado delimitador;
 
-- Recuperar elementos da página com JavaScript, com o uso das funções document.querySelector() e document.getElementById();
+- Recuperar valores digitados em campos de um formulário na página, via propriedade value;
 
-- Declarar variáveis no JavaScript para armazenar elementos recuperados da página;
+- Modificar o código HTML de um elemento na página, via propriedade `innerHTML;
 
-- Acessar a lista de classes que um elemento da página possui, via propriedade classList;
-
-- Verificar se um elemento da página possui uma determinada classe CSS, via função classList.contains();
-
-- Remover uma classe CSS de um elemento da página, via função classList.remove();
-
-- Adicionar uma classe CSS a um elemento da página, via função classList.add();
-
-- Alterar o texto de um elemento da página, via propriedade textContent;
-
-- Declarar um bloco condicional if/else, para implementar a funcionalidade de alterar o status de um jogo.
+- Utilizar o recurso de Template String do JavaScript, para concatenar valores de variáveis em String.
 
 Manipulação de formulários com o intuito de realizar uma soma total simulando uma loja de compras ficticia;
 Visual pré-disponibilizado pela Alura.
